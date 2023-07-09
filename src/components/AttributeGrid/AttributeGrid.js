@@ -20,7 +20,7 @@ const AttributeGrid = (props) => {
       <Attribute
         icon={'creditcard'}
         title={'secured payment'}
-        subtitle={'Shop safely'}
+        subtitle={'Shop safely with sideeq young'}
       />
     </div>
   );
