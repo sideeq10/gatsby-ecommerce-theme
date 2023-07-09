@@ -30,7 +30,7 @@ const MobileNavigation = (props) => {
         <div className={styles.headerAuth}>
           {depth === 0 && isAuth() === false && (
             <div className={styles.authLinkContainer}>
-              <Link to={'/signup'}>Sign Up</Link>
+              <Link to={'/signup'}>Sign Up To Sydney</Link>
               <Link to={'/login'}>Login</Link>
             </div>
           )}
