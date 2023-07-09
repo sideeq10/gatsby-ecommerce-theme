@@ -31,7 +31,7 @@ const AddNotification = (props) => {
         <div className={styles.iconContainer}>
           <Icon symbol={'check'}></Icon>
         </div>
-        <span>Item added to bag</span>
+        <span>Item added to bag. From sideeq</span>
       </div>
 
       <div className={styles.newItemContainer}>
