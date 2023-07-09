@@ -39,7 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
+          The Nigeria No. 1 Place to buy your clothes and underwear for both men and women{' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
