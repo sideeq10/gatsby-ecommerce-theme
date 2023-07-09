@@ -39,12 +39,12 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          The Nigeria No. 1 Place to buy your clothes and underwear for both men and women{' '}
-          <span className={styles.gold}>matter design.</span>
+          The Nigeria No. 1 Place to buy your clothes and underwear for both men and women. Design By{' '}
+          <span className={styles.gold}>Young Desiger.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          wear by <span className={styles.gold}>Celebrities</span> and{' '}
+          <span className={styles.gold}>Rich men and women</span>
         </p>
       </div>
 
