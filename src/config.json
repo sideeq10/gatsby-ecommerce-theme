@@ -4,7 +4,7 @@
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "NGN", "label": "Nigeria (NGN N)" }
   ],
   "languageList": [
     { "value": "english", "label": "English" },
