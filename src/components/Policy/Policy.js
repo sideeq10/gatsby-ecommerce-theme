@@ -97,7 +97,7 @@ const Policy = (props) => {
           (g) forge any TCP-IP packet header or any part of the header
           information or otherwise putting Information in a header designed to
           mislead recipients as to the origin of any content transmitted through
-          the Website ("spoofing";);
+          the Website. Thank you for your understanding. Sideeq Young ("spoofing";);
         </p>
       </div>
     </div>
