@@ -171,9 +171,9 @@ const Footer = (prop) => {
                 <Button target={true} href="https://www.matterdesign.com.au/">
                   Matter.
                 </Button>{' '}
-                Powered by{' '}
+                2023 Alright reserve {' '}
                 <Button target={true} href="https://jamm.matter.design/">
-                  JAMM.™
+                  SIDEEQ YOUNG
                 </Button>
               </span>
             </div>
