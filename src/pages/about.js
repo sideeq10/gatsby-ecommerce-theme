@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Sydney A New Website For Your Shopping`}
         />
 
         <div className={styles.navContainer}>
@@ -48,7 +48,7 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
+              Founded in October 10, 2022. Sydney is an innovative British brand with a
               contemporary edge. We make timeless everyday luxury clothing.
             </p>
             <br />
@@ -56,8 +56,8 @@ const AboutPage = (props) => {
             <p>
               We created some of the world's first T-shirts and spent decades
               perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              that makes T-shirts in its own factory in the Nigeria. And we do this
+              in the same factory we have occupied since 2022.
             </p>
           </div>
         </Container>
@@ -92,7 +92,7 @@ const AboutPage = (props) => {
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
+                The Founder,Aliu Sideeq, had both an eye for quality and a
                 desire to innovate. As well as using the finest fibres such as
                 Sea Island cotton, cashmere and silk, he invented his own
                 fabrics. Sunspel continues this commitment to innovation today
@@ -103,13 +103,13 @@ const AboutPage = (props) => {
                 wools and fibres.
               </p>
               <p>
-                Made in Long Eaton, England and crafted from our luxurious long
+                Made in Lagos, Nigeria and crafted from our luxurious long
                 staple Supima cotton for unparalleled softness, comfort and
                 durability, the Sunspel T-shirt has a classic fit and only the
                 most essential details.{' '}
               </p>
               <p>
-                With over 100 years spent perfecting fabric, fit and style, the
+                With over 1 year spent perfecting fabric, fit and style, the
                 Sunspel Classic T-shirt is recognised as the finest in the
                 world.
               </p>
