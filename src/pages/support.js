@@ -15,7 +15,7 @@ const SupportPage = (props) => {
     { title: 'Returns', key: 'returns' },
     { title: 'Payments & Security', key: 'payments' },
     { title: 'Terms & Conditions', key: 'terms' },
-    { title: 'Contact Us Sideeq Young', key: 'contact' },
+    { title: 'Contact Sideeq Young', key: 'contact' },
     { title: 'Privacy Policy', key: 'policy' },
   ];
 
