@@ -41,7 +41,7 @@ const MobileNavigation = (props) => {
               role={'presentation'}
               onClick={() => setDepth(-1)}
             >
-              <span className={styles.welcomeMessage}>Welcome, John</span>
+              <span className={styles.welcomeMessage}>Welcome to Sydney by sideeq young, make sure you place order. Thank you for joining.</span>
               <Icon symbol={'caret'}></Icon>
             </div>
           )}
